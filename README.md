@@ -17,8 +17,7 @@ No external libraries are required, simply configure the application parameters 
 Open md5crawler.py in a text editor and search for the following lines: 
 
 ```python
-#####PARAMS#####  
-
+#####PARAMS#####
 # Specify the parameters for your search. You'll probably want to change these.  
 search_dir = '/home/user/' 
 csv_out =  open('/home/user/MD5Out.csv', 'w') 
